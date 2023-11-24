@@ -131,10 +131,10 @@
       answers: {
         a: "Yeager",
         b: "Kuchel",
-        c: "Sasha",
+        c: "Carla",
         d: "Grisha"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
     {
       question: "What are the walls protecting humanity called?",
